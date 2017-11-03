@@ -47,7 +47,7 @@ class InstagramController extends Controller
 		}
 
 		$headers = [
-    		'user-Agent' => $_SERVER['HTTP_USER_AGENT'],
+    		
 	    ];
 
 	    $client = new Client([
