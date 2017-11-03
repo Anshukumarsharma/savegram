@@ -8,6 +8,9 @@ This bot will save all your saved post on a server so you wont lose it whenever 
 # Install composer
 composer install
 
+#Make storage folder accessible for public
+php artisan storage:link
+
 ```
 
 ### **Telegram**
