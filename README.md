@@ -4,7 +4,7 @@
  
 >This bot will save all your saved post on a server so you wont lose it whenever the owner delete it. Just paste the Instagram URL in Telegram and its saved forever!
 
-### **Composer**
+### **Installation**
 ``` bash
 # Install composer
 composer install
