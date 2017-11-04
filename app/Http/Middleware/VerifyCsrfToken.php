@@ -12,7 +12,7 @@ class VerifyCsrfToken extends Middleware
      * @var array
      */
     protected $except = [
-        '/419011102:AAHgUd-sKtCvXZX7pPNnX1MwxZH8Il5-puk',
+        '/*',
         'create_url'
     ];
 }
